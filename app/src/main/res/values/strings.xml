@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Projeto-Profile</string>
+
+    <string name="detail">Details</string>
+    <string name="name">Gabriel S. Soares</string>
+    <string name="designer">Sr. UI/UX Designer</string>
+    <string name="email">Email</string>
+    <string name="oficial">Official</string>
+    <string name="official_email">gabriel.gabriel@gmail.com</string>
+    <string name="personal">Personal</string>
+    <string name="personal_email">gabriel.soares@gmail.com</string>
+    <string name="call">Call</string>
+    <string name="phone">Phone Number</string>
+    <string name="mobile">(11) 4002-8922</string>
+    <string name="whats">WhatsApp</string>
+    <string name="favorite">Favorite</string>
+    <string name="team">Team</string>
+    <string name="team_text">Project Operation Team</string>
+    <string name="leads">Leads By</string>
+    <string name="leader">Gabriel da Silva Soares</string>
+    <string name="contact">Add to contact</string>
+
+</resources>
