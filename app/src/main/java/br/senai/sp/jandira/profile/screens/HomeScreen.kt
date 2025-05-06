@@ -277,7 +277,7 @@ fun HomeScreen() {
                 Row (horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically, modifier = Modifier.fillMaxWidth()){
                     Column {
                         Row(verticalAlignment = Alignment.CenterVertically) {
-                            Icon(painter = painterResource(id = R.drawable.whatsappa), contentDescription = "Email", tint = Color(0xff9489f8))
+                            Icon(painter = painterResource(id = R.drawable.whatsapp), contentDescription = "Email", tint = Color(0xff9489f8))
                             Text(text = stringResource(id = R.string.team), fontSize = 16.sp, fontWeight = FontWeight.W500, modifier =
                             Modifier.padding(start = 5.dp))
                         }
